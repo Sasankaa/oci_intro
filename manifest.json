@@ -13,35 +13,82 @@
 
             },
             {
-                "number": "100",
-                "filename": "LabGuide100.md",
-                "title": "Lab 100: Agile Project Management, plus an even longer section of text that will almost assuredly wrap unto the proximate lineage.",
-                "description": "Use Developer Cloud Service to create issues, tasks, and sprints, plus an even longer section of text that will almost assuredly wrap unto the proximate lineage, plus an even longer section of text that will almost assuredly wrap unto the proximate lineage."
+                "number": "1",
+                "filename": "/L100-LAB/Identity_Access_Management/IAM_HOL.md",
+                "title": "Identity and Access Management",
+                "description": ""
 
             },
             {
-                "number": "200",
-                "filename": "LabGuide200.md",
-                "title": "Lab 200:  Title of Lab 200",
-                "description": "Short description of lab 200"
+                "number": "2",
+                "filename": "/L100-LAB/AUDIT_Service/AUDIT_HOL.md",
+                "title": "OCI Audit Service",
+                "description": ""
 
             },
             {
-                "number": "300",
-                "filename": "LabGuide300.md",
-                "title": "Lab 300:  Title of Lab 300",
-                "description": "Short description of lab 300"
+                "number": "3",
+                "filename": "/L100-LAB/Compute_Services/Compute_HOL.md",
+                "title": "Compute Service",
+                "description": ""
 
             },
             {
-                "number": "400",
-                "filename": "LabGuide400.md",
-                "title": "Lab 400: Title of Lab 400",
-                "description": "Short description of lab 400"
+                "number": "4",
+                "filename": "/L100-LAB/Block_Volume/Block_Volume_HOL.md",
+                "title": "Block Volume Service",
+                "description": ""
+
+            },
+            {
+                "number": "5",
+                "filename": "/L100-LAB/Object_Storage/ObjectStorage_HOL.md",
+                "title": "Object Storage Service",
+                "description": ""
+
+            },
+            {
+                "number": "6",
+                "filename": "/L100-LAB/File_Storage_Service/FSS_HOL.md",
+                "title": "File Storage Service",
+                "description": ""
+
+            },
+            {
+                "number": "7",
+                "filename": "/L100-LAB/Virtual_Cloud_Network/VCN_HOL.md",
+                "title": "Virtual Cloud Network - VCN",
+                "description": ""
+
+            },
+            {
+                "number": "8",
+                "filename": "/L100-LAB/Load_Balancer/load_balancer.md",
+                "title": "Load Balancer",
+                "description": ""
+
+            },
+            {
+                "number": "9",
+                "filename": "/L100-LAB/Using_Reserved_Public_IP/Reserved_Public_IP_HOL.md",
+                "title": "Reserved Public IP",
+                "description": ""
+
+            },
+            {
+                "number": "10",
+                "filename": "/L100-LAB/ATP_Lab/ATP_HOL.md",
+                "title": "Autonomous Transaction Processing",
+                "description": ""
+
+            },
+            {
+                "number": "11",
+                "filename": "/L100-LAB/Autonomous_Data_Warehouse/ADW_HOL.md",
+                "title": "Autonomous Data Warehouse",
+                "description": ""
 
             }
-
-
         ]
     }
 }
