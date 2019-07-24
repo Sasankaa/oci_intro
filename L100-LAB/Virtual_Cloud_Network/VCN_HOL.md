@@ -1,15 +1,5 @@
 # Virtual Cloud Network - VCN
 
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Create a Virtual Cloud Network](#practice-1-create-a-virtual-cloud-network)
-
-
-
 ## Overview
 
 When you work with Oracle Cloud Infrastructure, one of the first steps is to set up a virtual cloud network (VCN) for your cloud resources. This topic gives you an overview of Oracle Cloud Infrastructure Networking components and typical scenarios for using a VCN.

@@ -1,22 +1,4 @@
 # ReservedIP Practice - Using Reserved Public IP 
-  
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Sign in to OCI Console and create reserved public IP](#practice-1-sign-in-to-oci-console-and-create-reserved-public-ip)
-
-[Practice 2: Assign reserved public IP to first compute instance](#practice-2-assign-reserved-public-ip-to-first-compute-instance)
-
-[Practice 3: ssh to compute instance using Reserved Public IP](#practice-3-ssh-to-compute-instance-using-reserved-public-ip)
-
-[Practice 4: Un assign Reserved Public IP](#practice-4-un-assign-reserved-public-ip)
-
-[Practice 5: Create a second compute instance and assign the same Reserved Public IP](#practice-5-create-a-second-compute-instance-and-assign-the-same-reserved-public-ip)
-
-[Practice 6: Delete the resources](#practice-6-delete-the-resources)
 
 ## Overview
 

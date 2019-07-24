@@ -1,29 +1,5 @@
 # Autonomous Data Warehouse
 
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Download channel text file and install SQL Developer Tool ](#practice-1-download-channel-text-file-and-install-sql-developer-tool)
-
-[Practice 2: Sign in to OCI Console](#practice-2-sign-in-to-oci-console)
-
-[Practice 3: Create an Autonomous Data Warehouse Database](#practice-3-create-an-autonomous-data-warehouse)
-
-[Practice 4: Download a Connection Wallet for ADW Database](#practice-4-download-a-connection-wallet-for-adw-database)
-
-[Practice 5: Create a bucket in Object Storage and upload the channels.txt file](#practice-5-create-a-bucket-in-object-storage-and-upload-the-text-file)
-
-[Practice 6: Creating an Auth token for OCI user](#practice-6-creating-an-auth-token-for-oci-user)
-
-[Practice 7: Login to the ADW database and store the object store credentials](#practice-7-login-to-the-adw-database-and-store-the-object-store-credentials)
-
-[Practice 8: Load data into ADW using channels text file](#practice-8-load-data-into-adw-using-channels-text-file)
-
-[Practice 9: Try Oracle Cloud Infrastructure for FREE](#practice-9-try-oracle-cloud-infrastructure-for-free)
-
 ## Overview
 
 Oracle Autonomous Data Warehouse Cloud provides an easy-to-use, fully autonomous database that scales elastically, delivers fast query performance and requires no database administration. In this hands on lab, we will walk through deploying an Autonomous Data Warehouse database and loading a table using a text file that is stored in object storage. The purpose of this lab is to get familiar with Oracle Autonomous Data Warehouse primitives. At the end of this lab, you will be familiar with launching an Autonomous Data Warehouse database, creating an object storage bucket and loading a table using a text file stored in object storage.

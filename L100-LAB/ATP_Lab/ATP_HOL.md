@@ -1,20 +1,4 @@
 #  Autonmous Transaction Processing
-  
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Sign in to OCI Console and create VCN](#practice-1-sign-in-to-oci-console-and-create-vcn)
-
-[Practice 2: Create Compute instance and install Swing Bench](#practice-2-create-compute-instance-and-install-swing-bench)
-
-[Practice 3: Create ATP instance in OCI and Configure Swing Bench on Compute instance to generate load traffic](#practice-3-create-atp-instance-in-oci-and-configure-swing-bench-on-compute-instance-to-generate-load-traffic)
-
-[Practice 4: Dynamically Scale CPU on ATP instance and verify results](#practice-4-dynamically-scale-cpu-on-atp-instance-and-verify-results)
-
-[Practice 5: Delete the resources](#practice-5-delete-the-resources)
 
 ## Overview
 

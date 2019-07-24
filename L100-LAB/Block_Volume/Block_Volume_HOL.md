@@ -1,16 +1,5 @@
 # Block Volume Service
 
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Creating Block Volume](#practice-1-creating-block-volume)
-
-[Practice 2: Attaching a Block Volume to an instance](#practice-2-attaching-a-block-volume-to-an-instance)
-
-**Note:** *Some of the UIs might look a little different than the screen shots included in the instructions, but you can still use the instructions to complete the hands-on labs.*
 
 ## Overview
 

@@ -1,15 +1,4 @@
 # Object Practice - Object Storage Service
-  
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Sign in to OCI Console and Create Object Storage Bucket ](#practice-1-sign-in-to-oci-console-and-create-object-storage-bucket)
-
-[Practice 2: Upload Object and create pre authenticated link](#practice-2-upload-object-and-create-pre-authenticated-link)
-
 
 ## Overview
 

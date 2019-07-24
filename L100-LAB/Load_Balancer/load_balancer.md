@@ -2,21 +2,6 @@
 # Load Balancer
 
 
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Creating Virtual Cloud Network](#practice-1-creating-virtual-cloud-network)
-
-[Practice 2: Creating two Web Servers](#practice-2-creating-two-web-servers)
-
-[Practice 3: Creating and Testing the Load Balancer](#practice-3-creating-and-testing-the-load-balancer)
-
-**Note:** *Some of the UIs might look a little different than the screen shots included in the instructions, but you can still use the instructions to complete the hands-on labs.*
-
-
 ## Overview
 
 The Oracle Cloud Infrastructure Load Balancing service provides automated traffic distribution from one entry point to multiple servers reachable from your virtual cloud network (VCN). The service offers a load balancer with your choice of a public or private IP address, and provisioned bandwidth.

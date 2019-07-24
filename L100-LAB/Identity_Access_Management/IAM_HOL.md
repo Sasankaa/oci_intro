@@ -1,16 +1,4 @@
 # IAM Practice - Identity and Access Management
-  
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Signing in to the Console ](#practice-1-signing-in-to-the-console)
-
-[Practice 2: Managing Users, Groups and Policies to Control Access](#practice-2-managing-users-groups-and-policies-to-control-access)
-
-**Note:** *Some of the UIs might look a little different than the screen shots included in the instructions, but you can still use the instructions to complete the hands-on labs.*
 
 ## Overview
 

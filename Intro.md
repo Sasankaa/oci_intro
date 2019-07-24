@@ -1,11 +1,6 @@
-# Name Of The Workshop
+# Introduction to Oracle Cloud Infrastructure
 
-Welcome to the ...workshop. This workshop will walk you through the process of... 
-To learn more about this workshop please watch the video below.
-
-![](images/oraclecode/youtube.png)
-
-<a href="https://youtu.be/" target="_video">Workshop Overview</a>
+Welcome to the Introduction to Oracle Cloud Infrastructure workshop. This workshop will walk you through self-paced labs provide hands-on experience with Oracle Cloud Infrastructure in real cloud environments.
 
 ### **Step 1**: Acquire an Oracle Cloud Trial or Workshop Account
 
@@ -21,6 +16,6 @@ To learn more about this workshop please watch the video below.
 
 ### **Step 2**: Navigate to Lab 100
 
-- _You can see a list of Lab Guides_ by clicking on the **Menu Icon** in the upper left corner of the browser window. You're now ready to continue with **Lab 100**.
+- _You can see a list of Lab Guides_ by clicking on the **Menu Icon** in the upper left corner of the browser window. You're now ready to continue with **Labs**.
 
   ![](images/LabMenuIcon.png)

@@ -1,16 +1,5 @@
 # Compute Service
 
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Generate SSH Keys](#practice-1-generate-ssh-keys)
-
-[Practice 2: Creating a Web Server on a Compute Instance](#practice-2-creating-a-web-server-on-a-compute-instance)
-
-**Note:** *Some of the UIs might look a little different than the screen shots included in the instructions, but you can still use the instructions to complete the hands-on labs.*
 
 ## Overview
 

@@ -1,18 +1,4 @@
 # File Storage Service
-  
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice-1: Configuring VCN Security List Rules for File Storage](#practice-1-configuring-vcn-security-list-rules-for-file-storage)
-
-[Practice-2: Creating a File System](#practice-2-creating-a-file-system)
-
-[Practice-3: Mounting a File System](#practice-3-mounting-a-file-system)
-
-**Note:** *Some of the UIs might look a little different than the screen shots included in the instructions, but you can still use the instructions to complete the hands-on labs.*
 
 ## Overview
 

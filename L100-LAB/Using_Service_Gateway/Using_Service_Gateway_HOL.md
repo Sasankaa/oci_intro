@@ -1,18 +1,4 @@
 #  Using Service Gateway 
-  
-## Table of Contents
-
-[Overview](#overview)
-
-[Pre-Requisites](#pre-requisites)
-
-[Practice 1: Sign in to OCI Console, create Object Storage Bucket and VCN](#practice-1-sign-in-to-oci-console,-create-object-storage-bucket-and-vcn)
-
-[Practice 2: Generate ssh keys, Create 2 Compute instances and install OCI CLI](#practice-2-generate-ssh-keys,-create-2-compute-instances-and-install-oci-cli)
-
-[Practice 3: Upload API keys, Create Service gateway and verify functionality](#practice-3-upload-api-keys,-create-service-gateway-and-verify-functionality)
-
-[Practice 4: Delete the resources](#practice-4-delete-the-resources)
 
 ## Overview
 
